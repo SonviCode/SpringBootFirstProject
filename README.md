@@ -11,6 +11,10 @@
 - PostMan
 
 ### For start the project
+Go to MySQL :
+- create database with the same name
+- change the password with your password
+
 Go to backend : 
 - run the application
 
